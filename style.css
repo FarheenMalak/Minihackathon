@@ -245,6 +245,7 @@ footer {
             display: flex;
             height: auto;
             flex-direction: column;
+            margin-left: 30px;
         }
         #services{
             display: flex;
